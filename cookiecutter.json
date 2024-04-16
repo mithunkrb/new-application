@@ -1,0 +1,5 @@
+{
+    "repo_name": "demo-repo",
+    "env": "prod",
+    "app_type": "st"
+}
